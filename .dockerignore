@@ -1,0 +1,7 @@
+.git
+.idea
+venv
+.gitattributes
+Dockerfile*
+.gitignore
+README.md
